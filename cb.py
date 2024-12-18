@@ -7,7 +7,7 @@ import random
 import threading
 
 # Put Your Telegram Bot Token Here
-bot = telebot.TeleBot('7717540469:AAFV7svTxPN9dQETtrcKRwqVpccdU9xG8ww')
+bot = telebot.TeleBot('7717540469:AAEkDwqOyOQLZlJl7LjW-F2ZWiF_7TWgSrE')
 
 # Admin User ID
 admin_id = ["1884454860"]
